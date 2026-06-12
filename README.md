@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech Electronics & Computer Engineering** @ VIT Chennai | CGPA: **8.67 / 10** *(2024–2028)*
+- 🎓 **B.Tech Electronics & Computer Engineering** @ VIT Chennai | CGPA: **8.66 / 10** *(2024–2028)*
 - 🔭 Currently working on **Glacial Lake Detection** using Deep Learning & Satellite Imagery
 - 🌱 Deepening expertise in **CNNs, Segmentation, Object Detection, and Geospatial ML**
 - 💼 Recently interned as a **Full Stack Developer** at ESG Sentinel Pvt. Ltd.
