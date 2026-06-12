@@ -50,9 +50,18 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-**ML Concepts**
+** ML Concepts **
 
-`CNNs` `UNet++` `YOLOv8` `Image Segmentation` `Object Detection` `Transfer Learning` `TTA` `Data Augmentation` `IoU / Dice / F1 / Cohen's Kappa`
+![CNNs](https://img.shields.io/badge/CNNs-FF6F00?style=for-the-badge)
+![UNet++](https://img.shields.io/badge/UNet++-D32F2F?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-7B1FA2?style=for-the-badge)
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-1976D2?style=for-the-badge)
+![Object Detection](https://img.shields.io/badge/Object_Detection-0288D1?style=for-the-badge)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-388E3C?style=for-the-badge)
+![TTA](https://img.shields.io/badge/TTA-00796B?style=for-the-badge)
+![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-5D4037?style=for-the-badge)
+![IoU / Dice / F1](https://img.shields.io/badge/IoU_|_Dice_|_F1-455A64?style=for-the-badge)
+![Cohen's Kappa](https://img.shields.io/badge/Cohen's_Kappa-616161?style=for-the-badge)
 
 **Geospatial & Remote Sensing**
 
