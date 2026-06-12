@@ -23,12 +23,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **B.Tech Electronics & Computer Engineering** @ VIT Chennai | CGPA: **8.66 / 10** *(2024–2028)*
-- 🔭 Currently working on **Glacial Lake Detection** using Deep Learning & Satellite Imagery
-- 🌱 Deepening expertise in **CNNs, Segmentation, Object Detection, and Geospatial ML**
-- 💼 Recently interned as a **Full Stack Developer** at ESG Sentinel Pvt. Ltd.
-- 🏆 Seeking to strengthen ML foundations in **probability, linear algebra, and optimization**
-- 📍 Chennai, Tamil Nadu, India
+-  **B.Tech Electronics & Computer Engineering** @ VIT Chennai | CGPA: **8.66 / 10** *(2024–2028)*
+-  Currently working on **Glacial Lake Detection** using Deep Learning & Satellite Imagery
+-  Deepening expertise in **CNNs, Segmentation, Object Detection, and Geospatial ML**
+-  Recently interned as a **Full Stack Developer** at ESG Sentinel Pvt. Ltd.
+-  Seeking to strengthen ML foundations in **probability, linear algebra, and optimization**
+-  Chennai, Tamil Nadu, India
 
 ---
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🧊 [Glacial Lake Detection — GLOF Challenge (SNU Chennai)](https://github.com/vizarrd/ICE_KATTI_GLOF_Challenge)
 > Detecting glacial lakes from multispectral satellite imagery using deep learning
