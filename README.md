@@ -65,10 +65,10 @@
 
 **Geospatial & Remote Sensing**
 
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![NDWI](https://img.shields.io/badge/NDWI-2E7D32?style=for-the-badge&logo=leaflet&logoColor=white)
-![Multispectral Imagery](https://img.shields.io/badge/Multispectral_Imagery-2E7D32?style=for-the-badge&logo=googleearth&logoColor=white)
-![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-2E7D32?style=for-the-badge&logo=mapbox&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-263238?style=for-the-badge&logo=qgis&logoColor=white)
+![NDWI](https://img.shields.io/badge/NDWI-263238?style=for-the-badge)
+![Multispectral Imagery](https://img.shields.io/badge/Multispectral_Imagery-263238?style=for-the-badge)
+![Spatial Analysis](https://img.shields.io/badge/Spatial_Analysis-263238?style=for-the-badge)
 
 **Tools & Platforms**
 
