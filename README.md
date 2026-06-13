@@ -93,7 +93,7 @@
 
 ---
 
-### 🏠 YOLOv8n + ECA Attention — Floor Plan Object Detection
+### 🏠 YOLOv8n-ECANet — Floor Plan Object Detection
 > Computer Vision research on architectural floor plan analysis
 
 - Integrated **Efficient Channel Attention (ECA)** mechanism (Wang et al., CVPR 2020) into YOLOv8n
