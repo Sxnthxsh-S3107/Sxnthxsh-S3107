@@ -153,7 +153,16 @@
 - 🤝 **Community** — Team coordination, peer mentoring, student communities
 
 ---
-![Snake animation](https://github.com/Sxnthxsh-S3107/Sxnthxsh-S3107/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- 🐍 GitHub Contribution Snake (Full Width) -->
+<div align="center" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxnthxsh-S3107/Sxnthxsh-S3107/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxnthxsh-S3107/Sxnthxsh-S3107/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Sxnthxsh-S3107/Sxnthxsh-S3107/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,30:0a1628,70:0d2040,100:00f5d4&height=120&section=footer" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sxnthxsh-S3107&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
