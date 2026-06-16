@@ -153,6 +153,7 @@
 - 🤝 **Community** — Team coordination, peer mentoring, student communities
 
 ---
+![Snake animation](https://github.com/Sxnthxsh-S3107/Sxnthxsh-S3107/blob/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sxnthxsh-S3107&label=Profile%20Views&color=36BCF7&style=flat" alt="profile views" />
