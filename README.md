@@ -136,14 +136,32 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sxnthxsh-S3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=false&v=2" height="170"/>
+## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxnthxsh-S3107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="170"/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sxnthxsh-S3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxnthxsh-S3107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="200"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sxnthxsh-S3107&theme=tokyonight&hide_border=true&v=2"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Sxnthxsh-S3107&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sxnthxsh-S3107&theme=tokyo-night&hide_border=true"
+    width="95%"
+  />
 </p>
 
 ## 🎨 Beyond Code
