@@ -137,13 +137,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sxnthxsh-S3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=1" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sxnthxsh-S3107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&v=1" height="170"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxnthxsh-S3107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" height="165"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sxnthxsh-S3107&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=1" height="170"/>
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Sxnthxsh-S3107&theme=tokyonight&hide_border=true&cache_seconds=0&v=1"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sxnthxsh-S3107&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ## 🎨 Beyond Code
