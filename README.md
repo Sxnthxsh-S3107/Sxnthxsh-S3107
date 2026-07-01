@@ -136,10 +136,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <table align="center">
 <tr>
 <td>
